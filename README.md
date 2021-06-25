@@ -7,6 +7,7 @@
 - Try out Elyra with Binder, no installation necessary!  
   [![Binder](http://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/akchinSTC/SciPy2021/main?urlpath=lab)
   and try out our [Pipeline Editor Tutorial](https://github.com/elyra-ai/examples/tree/master/pipelines/hello_world_kubeflow_pipelines)
+    - Under Prequisites, please skip this [section](https://github.com/elyra-ai/examples/tree/master/pipelines/hello_world_kubeflow_pipelines#information-to-collect-before-starting) since we will be simulating the pipeline run in `local` mode. 
 - If you have any questions or experience any issues, please open an issue [HERE](https://github.com/akchinSTC/SciPy2021/issues) 
 or reach out on our [gitter](https://gitter.im/elyra-ai/community#integrations)!
   
